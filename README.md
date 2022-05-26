@@ -25,8 +25,6 @@ Deep learning has achieved promising segmentation performance on 3D left atrium 
 difficult to obtain. In this paper, we introduce a novel hierarchical consistency regularized mean teacher framework for 3D left atrium segmentation. In each iteration, the student model is optimized by multi-scale deep supervision and hierarchical consistency regularization, concurrently. Extensive experiments have shown that our method achieves competitive performance as compared with full annotation, outperforming other stateof-the-art semi-supervised segmentation methods.
 
 
-Code for paper: [Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/abs/2105.10369)
-
 
 <p align="center">
 <img src="/assets/workflow.PNG" width="900">
