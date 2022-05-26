@@ -3,7 +3,7 @@
 # Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation
    
 [![EMBC2021](https://img.shields.io/badge/arXiv-2105.10369-blue)](https://arxiv.org/abs/2105.10369)
-[![EMBC2021](https://img.shields.io/badge/Conference-EMBC2021-green)](https://arxiv.org/abs/2105.10369)
+[![EMBC2021](https://img.shields.io/badge/Conference-EMBC2021-green)](https://ieeexplore.ieee.org/document/9629941)
    
 </div>
 
