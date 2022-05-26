@@ -27,7 +27,7 @@ difficult to obtain. In this paper, we introduce a novel hierarchical consistenc
 
 
 <p align="center">
-<img src="/assets/workflow.PNG" width="900">
+<img src="/assets/workflow.PNG" width="700">
 </p>
 
 ## Dataset
